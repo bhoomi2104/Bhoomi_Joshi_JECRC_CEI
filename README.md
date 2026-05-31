@@ -1,1 +1,2 @@
+IMPORTANT NOTICE:
 The dataset is very large for week 2 assignment and after uploading kaggle notebook to github , it fails to render both the assignments (week 1 and week 2). So to access the week 2 assignment please download the files and then open through kaggle or jupyter.
