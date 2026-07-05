@@ -1,8 +1,0 @@
-cohere
-pinecone
-pypdf
-streamlit
-tiktoken
-langchain
-langchain-community
-langchain-text-splitters
