@@ -105,6 +105,16 @@ financial document containing:
 - **Cohere** (Free): [dashboard.cohere.com](https://dashboard.cohere.com)
 - **Pinecone** (Free): [app.pinecone.io](https://app.pinecone.io)
 
+## SCREENSHOTS
+
+<img width="1470" height="956" alt="Screenshot 2026-07-18 at 3 29 23 PM" src="https://github.com/user-attachments/assets/1e93df9f-214f-4b3f-aaa5-d220e98ae748" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-18 at 3 29 30 PM" src="https://github.com/user-attachments/assets/d44654f6-ee75-4a9c-8bc4-ddc70ae73955" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-18 at 3 30 50 PM" src="https://github.com/user-attachments/assets/cd904c42-7a1e-4105-b758-db8535d67c5a" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-18 at 3 31 31 PM" src="https://github.com/user-attachments/assets/ee6afd6d-b9ed-496d-8bbd-7b2454661a92" />
+
 ## ⚠️ Disclaimer
 
 This chatbot is for advisory purposes only.
