@@ -1,0 +1,5 @@
+cohere
+pinecone
+streamlit
+langchain-text-splitters
+pandas

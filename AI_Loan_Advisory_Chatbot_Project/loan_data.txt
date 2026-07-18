@@ -1,0 +1,436 @@
+=============================================================
+COMPREHENSIVE LOAN ADVISORY DOCUMENT
+National Financial Services - Loan Policy Guidelines 2024
+=============================================================
+
+SECTION 1: HOME LOAN POLICY
+-------------------------------------------------------------
+
+1.1 OVERVIEW
+A Home Loan is a secured loan provided to individuals for purchasing,
+constructing, or renovating a residential property. The property itself
+serves as collateral for the loan.
+
+1.2 ELIGIBILITY CRITERIA - HOME LOAN
+- Minimum Age: 21 years
+- Maximum Age at loan maturity: 65 years (salaried), 70 years (self-employed)
+- Minimum Monthly Income (Salaried): Rs. 25,000
+- Minimum Monthly Income (Self-Employed): Rs. 40,000
+- Minimum Credit Score (CIBIL): 700
+- Minimum Work Experience (Salaried): 2 years (1 year with current employer)
+- Minimum Business Vintage (Self-Employed): 3 years
+- Indian Resident or NRI
+
+1.3 LOAN AMOUNT
+- Minimum Loan Amount: Rs. 5,00,000
+- Maximum Loan Amount: Rs. 10,00,00,000 (10 Crores)
+- Loan to Value (LTV) Ratio: Up to 80% of property value for loans above Rs. 75 Lakhs
+- Loan to Value (LTV) Ratio: Up to 90% for loans up to Rs. 30 Lakhs
+
+1.4 INTEREST RATES - HOME LOAN
+- Floating Rate: 8.50% to 10.50% per annum
+- Fixed Rate: 9.00% to 11.00% per annum
+- Women borrowers get 0.05% concession on interest rate
+- Pradhan Mantri Awas Yojana (PMAY) subsidy available for eligible borrowers
+
+1.5 LOAN TENURE
+- Minimum Tenure: 5 years
+- Maximum Tenure: 30 years
+- Tenure cannot extend beyond retirement age (60 years for salaried)
+
+1.6 HOME LOAN EMI CALCULATION
+Formula: EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]
+Where:
+- P = Principal Loan Amount
+- R = Monthly Interest Rate (Annual Rate / 12 / 100)
+- N = Number of Monthly Installments (Tenure in years x 12)
+
+Example: Home Loan of Rs. 50,00,000 at 9% for 20 years
+- Monthly Rate R = 9/12/100 = 0.0075
+- N = 20 x 12 = 240
+- EMI = Rs. 44,986 approximately
+
+1.7 DOCUMENTS REQUIRED - HOME LOAN
+Identity Proof: Aadhaar Card, PAN Card, Passport, Voter ID
+Address Proof: Utility Bill, Aadhaar, Rent Agreement
+Income Proof (Salaried): Last 3 months salary slips, Form 16, 6 months bank statements
+Income Proof (Self-Employed): Last 2 years ITR, P&L statement, Balance Sheet
+Property Documents: Sale deed, NOC from builder, Property tax receipts
+Photographs: 2 passport-size photographs
+
+1.8 FEES AND CHARGES - HOME LOAN
+- Processing Fee: 0.5% to 1% of loan amount (minimum Rs. 5,000)
+- Prepayment Charges: NIL for floating rate loans
+- Prepayment Charges: 2% on outstanding principal for fixed rate loans
+- Late Payment Penalty: 2% per month on overdue EMI
+- Legal and Technical charges: Rs. 5,000 to Rs. 15,000
+
+1.9 HOME LOAN TAX BENEFITS
+- Principal repayment: Deduction up to Rs. 1,50,000 under Section 80C
+- Interest paid: Deduction up to Rs. 2,00,000 under Section 24(b)
+- First-time home buyers: Additional Rs. 50,000 deduction under Section 80EE
+- Affordable housing: Additional Rs. 1,50,000 under Section 80EEA
+
+=============================================================
+SECTION 2: PERSONAL LOAN POLICY
+=============================================================
+
+2.1 OVERVIEW
+A Personal Loan is an unsecured loan provided for personal expenses such as
+medical emergencies, travel, wedding, education, or debt consolidation.
+No collateral is required.
+
+2.2 ELIGIBILITY CRITERIA - PERSONAL LOAN
+- Minimum Age: 21 years
+- Maximum Age: 60 years (salaried), 65 years (self-employed)
+- Minimum Monthly Income (Salaried): Rs. 20,000
+- Minimum Monthly Income (Self-Employed): Rs. 30,000
+- Minimum Credit Score (CIBIL): 720
+- Minimum Work Experience: 1 year (6 months with current employer)
+- Employment Type: Salaried (Government/PSU/MNC/Private) or Self-Employed
+
+2.3 LOAN AMOUNT - PERSONAL LOAN
+- Minimum: Rs. 50,000
+- Maximum: Rs. 40,00,000 (40 Lakhs)
+- Loan amount typically 10-22 times monthly net salary
+
+2.4 INTEREST RATES - PERSONAL LOAN
+- Interest Rate Range: 10.50% to 24.00% per annum
+- Rate depends on credit score, income, employer category
+- Government employees: 10.50% to 14.00%
+- MNC/Large Corporate employees: 11.00% to 16.00%
+- Private sector employees: 12.00% to 24.00%
+
+2.5 LOAN TENURE - PERSONAL LOAN
+- Minimum: 12 months (1 year)
+- Maximum: 60 months (5 years)
+
+2.6 PERSONAL LOAN EMI EXAMPLE
+Loan of Rs. 5,00,000 at 14% interest for 3 years:
+- Monthly Rate R = 14/12/100 = 0.01167
+- N = 36 months
+- EMI = approximately Rs. 17,089 per month
+- Total Interest Payable = Rs. 1,15,204
+- Total Amount Payable = Rs. 6,15,204
+
+2.7 DOCUMENTS REQUIRED - PERSONAL LOAN
+- PAN Card (mandatory)
+- Aadhaar Card
+- Last 3 months salary slips
+- Last 6 months bank statements
+- Form 16 or ITR
+- Employment ID card
+
+2.8 FEES - PERSONAL LOAN
+- Processing Fee: 1% to 3% of loan amount
+- Prepayment after 12 EMIs: 2% to 4% of outstanding principal
+- Part-payment: Minimum 3 EMI equivalent amount
+
+2.9 PERSONAL LOAN REJECTION REASONS
+- Low CIBIL score (below 720)
+- High existing debt obligations
+- Frequent job changes
+- Multiple recent loan applications
+- Existing EMI to Income ratio above 50%
+
+=============================================================
+SECTION 3: CAR LOAN / AUTO LOAN POLICY
+=============================================================
+
+3.1 OVERVIEW
+A Car Loan or Auto Loan is a secured loan for purchasing new or used vehicles
+including cars, SUVs, and commercial vehicles.
+
+3.2 ELIGIBILITY - CAR LOAN
+- Minimum Age: 21 years
+- Maximum Age: 65 years
+- Minimum Monthly Income: Rs. 20,000
+- Minimum CIBIL Score: 680
+- Employment: Salaried or Self-Employed
+
+3.3 LOAN AMOUNT - CAR LOAN
+- New Car: Up to 90% of on-road price
+- Used Car: Up to 80% of valuation (cars not older than 5 years)
+- Minimum: Rs. 1,00,000
+- Maximum: Rs. 1,00,00,000 (1 Crore) for premium vehicles
+
+3.4 INTEREST RATES - CAR LOAN
+- New Car: 7.50% to 12.00% per annum
+- Used Car: 12.00% to 18.00% per annum
+
+3.5 TENURE - CAR LOAN
+- New Car: 12 to 84 months (7 years)
+- Used Car: 12 to 60 months (5 years)
+
+3.6 CAR LOAN EMI EXAMPLE
+New car worth Rs. 8,00,000, loan of Rs. 7,20,000 (90%), 8.5% for 5 years:
+- EMI = approximately Rs. 14,799 per month
+
+=============================================================
+SECTION 4: EDUCATION LOAN POLICY
+=============================================================
+
+4.1 OVERVIEW
+Education Loan helps students pursue higher education in India or abroad
+by covering tuition fees, living expenses, books, and other related costs.
+
+4.2 ELIGIBILITY - EDUCATION LOAN
+- Applicant: Student (Indian National)
+- Age: 16 to 35 years
+- Co-applicant: Parent or Guardian (mandatory)
+- Academic record: Secured admission to recognized institution
+- Courses: Graduation, Post-Graduation, Professional courses (IIT, IIM, Medical, Law, etc.)
+
+4.3 LOAN AMOUNT - EDUCATION LOAN
+- Studies in India: Up to Rs. 10,00,000 without collateral
+- Studies Abroad: Up to Rs. 20,00,000 without collateral
+- With Collateral: Up to Rs. 1,50,00,000 (1.5 Crores)
+
+4.4 EXPENSES COVERED
+- Tuition fees
+- Hostel/accommodation fees
+- Books, stationery, equipment
+- Travel expenses (for studies abroad)
+- Study tours, project work
+- Purchase of laptop/computer
+
+4.5 INTEREST RATES - EDUCATION LOAN
+- Up to Rs. 4 Lakhs: 11.00% to 13.00%
+- Rs. 4 Lakhs to Rs. 7.5 Lakhs: 11.00% to 12.00%
+- Above Rs. 7.5 Lakhs: 9.50% to 11.00%
+- Girl students get 0.5% concession
+- Simple interest during moratorium period
+
+4.6 MORATORIUM PERIOD
+- Course duration + 6 months or 1 year after getting employment
+- (whichever is earlier)
+- Only interest payment (or no payment) during moratorium
+
+4.7 REPAYMENT TENURE
+- Up to 5 years for loans below Rs. 7.5 Lakhs
+- Up to 7 years for loans between Rs. 7.5 to 15 Lakhs
+- Up to 15 years for loans above Rs. 15 Lakhs
+
+4.8 TAX BENEFIT - EDUCATION LOAN
+- Interest paid is deductible under Section 80E
+- No upper limit on deduction amount
+- Available for 8 consecutive years from repayment start
+
+=============================================================
+SECTION 5: BUSINESS LOAN POLICY
+=============================================================
+
+5.1 OVERVIEW
+Business Loans are provided to MSMEs, startups, and established businesses
+for working capital, expansion, equipment purchase, or other business needs.
+
+5.2 ELIGIBILITY - BUSINESS LOAN
+- Business Vintage: Minimum 2 years in operation
+- Annual Turnover: Minimum Rs. 10,00,000 (10 Lakhs)
+- Applicant Age: 21 to 65 years
+- Business Type: Sole Proprietorship, Partnership, LLP, Private Limited
+- CIBIL Score: Minimum 700
+
+5.3 LOAN AMOUNT - BUSINESS LOAN
+- Unsecured: Up to Rs. 50,00,000 (50 Lakhs)
+- Secured: Up to Rs. 5,00,00,000 (5 Crores)
+
+5.4 INTEREST RATES - BUSINESS LOAN
+- Unsecured: 14.00% to 26.00% per annum
+- Secured: 10.00% to 18.00% per annum
+
+5.5 TENURE - BUSINESS LOAN
+- Minimum: 12 months
+- Maximum: 60 months (unsecured)
+- Maximum: 120 months (secured)
+
+5.6 GOVERNMENT SCHEMES FOR BUSINESS LOANS
+- MUDRA Loan (Pradhan Mantri MUDRA Yojana):
+  * Shishu: Up to Rs. 50,000
+  * Kishore: Rs. 50,001 to Rs. 5,00,000
+  * Tarun: Rs. 5,00,001 to Rs. 10,00,000
+- CGTMSE Scheme: Credit guarantee for collateral-free loans
+- Stand-Up India: Loans for SC/ST and women entrepreneurs
+
+=============================================================
+SECTION 6: GOLD LOAN POLICY
+=============================================================
+
+6.1 OVERVIEW
+Gold Loan is a secured loan where gold jewellery or ornaments are pledged
+as collateral. It is the fastest loan to get with minimal documentation.
+
+6.2 ELIGIBILITY - GOLD LOAN
+- Age: 18 years and above
+- Gold purity: Minimum 18 karats
+- No income proof required
+- No CIBIL score requirement
+
+6.3 LOAN AMOUNT - GOLD LOAN
+- Up to 75% of gold value (as per RBI guidelines)
+- Minimum: Rs. 1,500
+- Maximum: Rs. 1,00,00,000 (1 Crore)
+
+6.4 INTEREST RATES - GOLD LOAN
+- 7.00% to 17.00% per annum depending on lender and tenure
+- Monthly interest scheme available
+
+6.5 TENURE - GOLD LOAN
+- Minimum: 3 months
+- Maximum: 36 months
+
+6.6 DOCUMENTS - GOLD LOAN
+- Identity proof (Aadhaar/PAN)
+- Address proof
+- Gold to be pledged
+
+=============================================================
+SECTION 7: CREDIT SCORE / CIBIL INFORMATION
+=============================================================
+
+7.1 WHAT IS CIBIL SCORE
+CIBIL (Credit Information Bureau India Limited) score is a 3-digit numeric
+summary of your credit history ranging from 300 to 900.
+
+7.2 CIBIL SCORE RANGES
+- 300 to 549: Poor - Very difficult to get loans
+- 550 to 649: Fair - Limited loan options, high interest rates
+- 650 to 699: Good - Some loan options available
+- 700 to 749: Very Good - Most loans available at standard rates
+- 750 to 900: Excellent - Best rates and highest loan amounts
+
+7.3 FACTORS AFFECTING CIBIL SCORE
+- Payment history (35%): Regular on-time EMI payments
+- Credit utilization (30%): Keep credit card usage below 30% of limit
+- Credit history length (15%): Longer history is better
+- Credit mix (10%): Mix of secured and unsecured loans
+- New credit inquiries (10%): Avoid multiple applications in short time
+
+7.4 HOW TO IMPROVE CIBIL SCORE
+- Pay all EMIs and credit card bills on time
+- Reduce credit card outstanding balances
+- Do not close old credit accounts
+- Avoid multiple loan applications simultaneously
+- Check CIBIL report annually and dispute errors
+
+=============================================================
+SECTION 8: EMI CALCULATION GUIDE
+=============================================================
+
+8.1 EMI FORMULA
+EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]
+P = Principal Amount
+R = Monthly Interest Rate = Annual Rate / 12 / 100
+N = Total number of months
+
+8.2 EMI EXAMPLES TABLE
+
+Home Loan - Rs. 30 Lakhs at 9% for 20 years:
+EMI = Rs. 26,992 per month
+Total Interest = Rs. 34,78,080
+Total Payable = Rs. 64,78,080
+
+Personal Loan - Rs. 3 Lakhs at 14% for 2 years:
+EMI = Rs. 14,423 per month
+Total Interest = Rs. 46,152
+Total Payable = Rs. 3,46,152
+
+Car Loan - Rs. 6 Lakhs at 9% for 5 years:
+EMI = Rs. 12,451 per month
+Total Interest = Rs. 1,47,060
+Total Payable = Rs. 7,47,060
+
+Education Loan - Rs. 10 Lakhs at 10.5% for 7 years:
+EMI = Rs. 16,601 per month
+Total Interest = Rs. 3,94,484
+Total Payable = Rs. 13,94,484
+
+8.3 FOIR (Fixed Obligation to Income Ratio)
+- Banks allow maximum 50-60% of monthly income as total EMI obligations
+- Example: If monthly income is Rs. 60,000, maximum EMI allowed = Rs. 30,000-36,000
+- This includes all existing EMIs + new loan EMI
+
+=============================================================
+SECTION 9: LOAN REJECTION AND TIPS
+=============================================================
+
+9.1 COMMON LOAN REJECTION REASONS
+- Low CIBIL score
+- Insufficient income
+- High existing debt (high FOIR)
+- Unstable employment history
+- Incomplete or incorrect documents
+- Age beyond eligibility
+- Property issues (for home loan)
+- Business losses (for business loan)
+
+9.2 TIPS TO GET LOAN APPROVED
+- Maintain CIBIL score above 750
+- Clear existing debts before applying
+- Apply with a co-applicant (spouse, parent)
+- Provide all documents accurately and completely
+- Choose loan amount that fits your FOIR
+- Apply to lenders that match your profile
+- Avoid multiple applications simultaneously
+
+9.3 LOAN PREPAYMENT GUIDE
+- Partial prepayment: Pay extra amount to reduce principal
+- Full prepayment (foreclosure): Close loan before tenure ends
+- Benefits: Saves interest, improves CIBIL score
+- Best time to prepay: Early in loan tenure when interest portion is highest
+
+=============================================================
+SECTION 10: FREQUENTLY ASKED QUESTIONS
+=============================================================
+
+Q: What is the minimum salary required for a home loan?
+A: Minimum monthly salary of Rs. 25,000 for salaried individuals.
+
+Q: Can I get a loan with a CIBIL score of 650?
+A: Yes, some lenders offer loans at 650 but with higher interest rates.
+   A score above 700 is recommended for better rates.
+
+Q: How is EMI calculated?
+A: EMI = [P x R x (1+R)^N] / [(1+R)^N - 1] where P is principal,
+   R is monthly interest rate, N is number of months.
+
+Q: What is the maximum home loan I can get on Rs. 50,000 salary?
+A: Typically 60 times monthly salary = Rs. 30,00,000 approximately,
+   subject to other eligibility criteria and property value.
+
+Q: What is the processing fee for loans?
+A: Home Loan: 0.5-1% of loan amount. Personal Loan: 1-3%.
+   Car Loan: 0.5-1%. Business Loan: 1-2%.
+
+Q: Can I get a personal loan without salary slips?
+A: No. Salary slips or bank statements showing salary credit are mandatory.
+
+Q: What is LTV ratio in home loan?
+A: Loan to Value ratio is the percentage of property value the bank will fund.
+   For a property worth Rs. 1 Crore, 80% LTV means bank gives Rs. 80 Lakhs.
+
+Q: Is there a tax benefit on personal loan?
+A: No direct tax benefit on personal loan. But if used for home renovation,
+   interest may be deductible under Section 24(b).
+
+Q: How long does loan approval take?
+A: Personal Loan: 1-3 days. Car Loan: 1-3 days.
+   Home Loan: 7-15 working days. Business Loan: 3-7 days.
+
+Q: What happens if I miss an EMI?
+A: Late payment penalty of 2% per month applies. CIBIL score gets negatively
+   impacted after 30 days of non-payment. Bank may send legal notices after
+   3 consecutive missed EMIs.
+
+Q: Can I transfer my home loan to another bank?
+A: Yes. Home loan balance transfer is allowed. Benefits include lower interest
+   rates, better service, or top-up loan facility.
+
+Q: What is a top-up loan?
+A: Additional loan on existing home loan. Available after satisfactory
+   repayment of 12+ EMIs. Interest rate same as home loan rate.
+
+Q: What is the difference between fixed and floating interest rate?
+A: Fixed rate remains constant throughout tenure.
+   Floating rate changes with market rates (linked to RBI repo rate).
+   Floating rates are currently lower but carry rate change risk.
