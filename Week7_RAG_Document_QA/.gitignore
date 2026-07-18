@@ -1,0 +1,20 @@
+# Virtual environment - most important!
+.venv/
+venv/
+env/
+
+# VS Code extensions and settings
+.antigravity/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac files
+.DS_Store
+
+# Environment variables
+.env
+*.env
